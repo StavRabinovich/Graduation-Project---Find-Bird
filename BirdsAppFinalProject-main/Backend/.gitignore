@@ -1,0 +1,15 @@
+runVirtualEnv.txt
+weights/
+.idea/
+__pycache__/
+env
+code/.BirdsAlgorithm.py
+*.db
+*.bat
+
+*.txt
+
+*.log
+
+__pay_cache__/
+*.pyc

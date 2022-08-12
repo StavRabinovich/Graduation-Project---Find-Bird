@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "boto",
+    "botocore",
+    "dotenv",
+    "reqparse",
+    "sqlalchemy",
+    "werkzeug"
+  ],
+  "python.analysis.extraPaths": ["./code/Utils", "./code/Resources/AWS"]
+}
